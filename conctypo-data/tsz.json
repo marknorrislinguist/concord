@@ -1,0 +1,35 @@
+{
+    "code": "tsz",
+    "Language": "Tsez",
+    "Genus": "Avar-Andic-Tsezic",
+    "Family": "Nakh-Daghestanian",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "c",
+    "Adj": "gnc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "ddo",
+    "Glottocode": "dido1241",
+    "Glottoname": "Tsez",
+    "Subfamily": "Daghestanian"
+}

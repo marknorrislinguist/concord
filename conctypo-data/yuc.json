@@ -1,0 +1,31 @@
+{
+    "code": "yuc",
+    "Language": "Yuchi",
+    "Genus": "Yuchi",
+    "Family": "Yuchi",
+    "Area": "North America",
+    "Dem": "gn",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-1cat",
+    "Type_nodef": "indeterminate-1cat",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "yuc",
+    "Glottocode": "yuch1247",
+    "Glottoname": "Yuchi",
+    "Subfamily": ""
+}

@@ -1,0 +1,34 @@
+{
+    "code": "sla",
+    "Language": "Slave",
+    "Genus": "Athapaskan",
+    "Family": "Na-Dene",
+    "Area": "North America",
+    "Dem": "x",
+    "Num": "f",
+    "Adj": "g",
+    "Type_wdef": "indeterminate-minimal-clf",
+    "Type_nodef": "indeterminate-minimal-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "scs, xsl",
+    "Glottocode": "sout2959",
+    "Glottoname": "South Slavey",
+    "Subfamily": ""
+}

@@ -1,0 +1,28 @@
+{
+    "code": "snc",
+    "Language": "Seneca",
+    "Genus": "Northern Iroquoian",
+    "Family": "Iroquoian",
+    "Area": "North America",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "More_Info": [
+        "Adj"
+    ],
+    "Samples": [],
+    "iso_codes": "see",
+    "Glottocode": "sene1264",
+    "Glottoname": "Seneca",
+    "Subfamily": ""
+}
