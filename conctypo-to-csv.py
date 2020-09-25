@@ -8,11 +8,10 @@ import pandas as pd
 # define the arguments that can be called when running the program from terminal
 @plac.annotations(
     sample=("Language sample. Options are WALS-174, Hasp-100, WALS-100. Defaults to all.", "option", "s", str),
-    fname=("Filename. Defaults to conctypo-data.csv", "option","n",str))
+    fname=("Filename. Defaults to conctypo-data.csv", "option","n",str),
+    dir_path=("Path to JSON files. Default is conctypo-data/", "option","d",str))
 
-def main(sample=None, fname="conctypo-data.csv"):
-
-    dir_path = "conctypo-data/"
+def main(sample=None, fname="conctypo-data.csv", dir_path="conctypo-data/"):
 
     features = [('Gender','g'),('Number','n'),('Case','c'),('Def','d',),('Person','p'),('Clf','f')]
     categories = ['Dem','Num','Adj']
