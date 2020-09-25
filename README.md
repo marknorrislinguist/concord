@@ -1,6 +1,6 @@
 # What is concord?
 
-A home for the scripts I write to process/manage the data for the concord typology (static archive at SHAREOK: [Nominal concord](https://shareok.org/handle/11244/320354); new updates archived at OSF: [Nominal concord at OSF](https://osf.io/tm49q/)
+A home for the scripts I write to process/manage the data for the concord typology (static archive at SHAREOK: [Nominal concord](https://shareok.org/handle/11244/320354); new updates archived at OSF: [Nominal concord at OSF](https://osf.io/tm49q/).
 
 ## Contents
 ### conctypo-to-csv.py
