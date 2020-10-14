@@ -1,0 +1,33 @@
+{
+    "code": "eka",
+    "Language": "Ekari",
+    "Genus": "Paniani Lakes",
+    "Family": "Trans-New Guinea",
+    "Area": "Papunesia",
+    "Dem": "gn",
+    "Num": "f",
+    "Adj": "X",
+    "Type_wdef": "indeterminate-1cat-clf",
+    "Type_nodef": "indeterminate-1cat-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "ekg",
+    "Glottocode": "ekar1243",
+    "Glottoname": "Ekari",
+    "Subfamily": ""
+}

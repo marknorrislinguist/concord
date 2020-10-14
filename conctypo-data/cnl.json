@@ -1,0 +1,33 @@
+{
+    "code": "cnl",
+    "Language": "Canela-Krah\u00f4",
+    "Genus": "Ge-Kaingang",
+    "Family": "Macro-Ge",
+    "Area": "South America",
+    "Dem": "n",
+    "Num": "o",
+    "Adj": "X",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "More_Info": [
+        "Num"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "ram",
+    "Glottocode": "cane1242",
+    "Glottoname": "Canela-Krah\u00f4",
+    "Subfamily": ""
+}

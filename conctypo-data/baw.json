@@ -1,0 +1,27 @@
+{
+    "code": "baw",
+    "Language": "Bawm",
+    "Genus": "Kuki-Chin",
+    "Family": "Sino-Tibetan",
+    "Area": "Eurasia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "bgr",
+    "Glottocode": "bawm1236",
+    "Glottoname": "Bawm Chin",
+    "Subfamily": "Tibeto-Burman"
+}

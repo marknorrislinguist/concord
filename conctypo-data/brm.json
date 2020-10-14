@@ -1,0 +1,29 @@
+{
+    "code": "brm",
+    "Language": "Burmese",
+    "Genus": "Burmese-Lolo",
+    "Family": "Sino-Tibetan",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "mya",
+    "Glottocode": "nucl1310",
+    "Glottoname": "Burmese",
+    "Subfamily": "Tibeto-Burman"
+}

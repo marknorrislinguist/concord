@@ -1,0 +1,38 @@
+{
+    "code": "arp",
+    "Language": "Arapesh (Mountain)",
+    "Genus": "Kombio-Arapesh",
+    "Family": "Torricelli",
+    "Area": "Papunesia",
+    "Dem": "gn",
+    "Num": "gn",
+    "Adj": "gn",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "ape",
+    "Glottocode": "buki1249",
+    "Glottoname": "Bukiyip",
+    "Subfamily": ""
+}

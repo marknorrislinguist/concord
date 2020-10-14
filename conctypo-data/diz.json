@@ -1,0 +1,29 @@
+{
+    "code": "diz",
+    "Language": "Dizi",
+    "Genus": "Dizoid",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "n",
+    "Num": "x",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Samples": [],
+    "iso_codes": "mdx",
+    "Glottocode": "dizi1235",
+    "Glottoname": "Dizin",
+    "Subfamily": "Omotic"
+}

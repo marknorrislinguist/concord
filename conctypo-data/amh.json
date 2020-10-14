@@ -1,0 +1,32 @@
+{
+    "code": "amh",
+    "Language": "Amharic",
+    "Genus": "Semitic",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "gn",
+    "Num": "x",
+    "Adj": "ncd",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "mixed-nonsubsective",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Def",
+        "Number",
+        "Case"
+    ],
+    "Samples": [],
+    "iso_codes": "amh",
+    "Glottocode": "amha1245",
+    "Glottoname": "Amharic",
+    "Subfamily": ""
+}

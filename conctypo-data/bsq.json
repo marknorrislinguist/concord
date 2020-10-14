@@ -1,0 +1,33 @@
+{
+    "code": "bsq",
+    "Language": "Basque",
+    "Genus": "Basque",
+    "Family": "Basque",
+    "Area": "Eurasia",
+    "Dem": "nc",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-1cat",
+    "Type_nodef": "indeterminate-1cat",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "eus",
+    "Glottocode": "basq1248",
+    "Glottoname": "Basque",
+    "Subfamily": ""
+}

@@ -1,0 +1,39 @@
+{
+    "code": "fin",
+    "Language": "Finnish",
+    "Genus": "Finnic",
+    "Family": "Uralic",
+    "Area": "Eurasia",
+    "Dem": "nc",
+    "Num": "nc",
+    "Adj": "nc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "fin",
+    "Glottocode": "finn1318",
+    "Glottoname": "Finnish",
+    "Subfamily": "Finno-Ugric"
+}

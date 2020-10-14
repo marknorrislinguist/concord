@@ -1,0 +1,37 @@
+{
+    "code": "abk",
+    "Language": "Abkhaz",
+    "Genus": "Northwest Caucasian",
+    "Family": "Northwest Caucasian",
+    "Area": "Eurasia",
+    "Dem": "n",
+    "Num": "g",
+    "Adj": "gn",
+    "Type_wdef": "mixed-subsective-crossed",
+    "Type_nodef": "mixed-subsective-crossed",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "abk",
+    "Glottocode": "abkh1244",
+    "Glottoname": "Abkhaz",
+    "Subfamily": ""
+}

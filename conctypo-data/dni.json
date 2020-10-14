@@ -1,0 +1,29 @@
+{
+    "code": "dni",
+    "Language": "Dani (Lower Grand Valley)",
+    "Genus": "Dani",
+    "Family": "Trans-New Guinea",
+    "Area": "Papunesia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "X",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "dni",
+    "Glottocode": "lowe1415",
+    "Glottoname": "Lower Grand Valley Dani",
+    "Subfamily": ""
+}

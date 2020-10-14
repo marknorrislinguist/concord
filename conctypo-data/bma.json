@@ -1,0 +1,34 @@
+{
+    "code": "bma",
+    "Language": "Berber (Middle Atlas)",
+    "Genus": "Berber",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "X",
+    "Num": "g",
+    "Adj": "gn",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "tzm",
+    "Glottocode": "cent2194",
+    "Glottoname": "Central Moroccan Berber",
+    "Subfamily": ""
+}

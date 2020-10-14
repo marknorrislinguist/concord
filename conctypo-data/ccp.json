@@ -1,0 +1,30 @@
+{
+    "code": "ccp",
+    "Language": "Cocopa",
+    "Genus": "Yuman",
+    "Family": "Hokan",
+    "Area": "North America",
+    "Dem": "xo",
+    "Num": "xo",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "More_Info": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Samples": [],
+    "iso_codes": "coc",
+    "Glottocode": "coco1261",
+    "Glottoname": "Cocopa",
+    "Subfamily": ""
+}

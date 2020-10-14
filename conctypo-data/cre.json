@@ -1,0 +1,31 @@
+{
+    "code": "cre",
+    "Language": "Cree (Plains)",
+    "Genus": "Algonquian",
+    "Family": "Algic",
+    "Area": "North America",
+    "Dem": "gn",
+    "Num": "X",
+    "Adj": "z",
+    "Type_wdef": "indeterminate-1cat",
+    "Type_nodef": "indeterminate-1cat",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "Adj_Concord": "cre has no Adj",
+    "iso_codes": "crk",
+    "Glottocode": "plai1258",
+    "Glottoname": "Plains Cree",
+    "Subfamily": ""
+}

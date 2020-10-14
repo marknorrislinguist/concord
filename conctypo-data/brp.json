@@ -1,0 +1,28 @@
+{
+    "code": "brp",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Adj",
+        "Dem",
+        "Num"
+    ],
+    "Adj_Concord": [],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Notes": "gender is \"predominantly\" semantic",
+    "Family": "Skou",
+    "Subfamily": "",
+    "Genus": "Warapu",
+    "ISO_codes": "wra",
+    "Glottoname": "Bauni",
+    "Glottocode": "wara1302",
+    "Area": "Papunesia",
+    "Language": "Barupu",
+    "Samples": [
+        "Hasp-100"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "code": "arm",
+    "Language": "Armenian (Eastern)",
+    "Genus": "Armenian",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "hye",
+    "Glottocode": "nucl1235",
+    "Glottoname": "Eastern Armenian",
+    "Subfamily": ""
+}

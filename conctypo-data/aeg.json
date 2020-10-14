@@ -1,0 +1,35 @@
+{
+    "code": "aeg",
+    "Language": "Arabic (Egyptian)",
+    "Genus": "Semitic",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "gn",
+    "Num": "x",
+    "Adj": "gnd",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Def",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "arz",
+    "Glottocode": "egyp1253",
+    "Glottoname": "Egyptian Arabic",
+    "Subfamily": ""
+}

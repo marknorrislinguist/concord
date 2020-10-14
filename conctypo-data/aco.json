@@ -1,0 +1,29 @@
+{
+    "code": "aco",
+    "Language": "Acoma",
+    "Genus": "Keresan",
+    "Family": "Keresan",
+    "Area": "North America",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "z",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "Adj_Concord": "aco has no Adj",
+    "iso_codes": "kjq",
+    "Glottocode": "west2632",
+    "Glottoname": "Western Keres",
+    "Subfamily": ""
+}

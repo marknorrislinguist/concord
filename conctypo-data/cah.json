@@ -1,0 +1,35 @@
+{
+    "code": "cah",
+    "Language": "Cahuilla",
+    "Genus": "California Uto-Aztecan",
+    "Family": "Uto-Aztecan",
+    "Area": "North America",
+    "Dem": "n",
+    "Num": "o",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "More_Info": [
+        "Num"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "chl",
+    "Glottocode": "cahu1264",
+    "Glottoname": "Cahuilla",
+    "Subfamily": ""
+}

@@ -1,0 +1,32 @@
+{
+    "code": "arg",
+    "Language": "Arabic (Gulf)",
+    "Genus": "Semitic",
+    "Family": "Afro-Asiatic",
+    "Area": "Eurasia",
+    "Dem": "gn",
+    "Num": "x",
+    "Adj": "gnd",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Def",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "afb",
+    "Glottocode": "gulf1241",
+    "Glottoname": "Gulf Arabic",
+    "Subfamily": ""
+}

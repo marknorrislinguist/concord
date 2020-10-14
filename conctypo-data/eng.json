@@ -1,0 +1,30 @@
+{
+    "code": "eng",
+    "Language": "English",
+    "Genus": "Germanic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "n",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Samples": [
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "eng",
+    "Glottocode": "stan1293",
+    "Glottoname": "English",
+    "Subfamily": ""
+}

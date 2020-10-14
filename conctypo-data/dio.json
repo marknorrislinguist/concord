@@ -1,0 +1,39 @@
+{
+    "code": "dio",
+    "Language": "Diola-Fogny",
+    "Genus": "Northern Atlantic",
+    "Family": "Niger-Congo",
+    "Area": "Africa",
+    "Dem": "gn",
+    "Num": "gnd",
+    "Adj": "gnd",
+    "Type_wdef": "uniform-demnodef",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "dyo",
+    "Glottocode": "jola1263",
+    "Glottoname": "Jola-Fonyi",
+    "Subfamily": "Atlantic"
+}

@@ -1,0 +1,36 @@
+{
+    "code": "abi",
+    "Language": "Abip\u2014n",
+    "Genus": "South Guaicuruan",
+    "Family": "Guaicuruan",
+    "Area": "South America",
+    "Dem": "gn",
+    "Num": "f",
+    "Adj": "gn",
+    "Type_wdef": "uniform-clf",
+    "Type_nodef": "uniform-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "axb",
+    "Glottocode": "abip1241",
+    "Glottoname": "Abipon",
+    "Subfamily": ""
+}

@@ -1,0 +1,30 @@
+{
+    "code": "don",
+    "Language": "Dong",
+    "Genus": "Kam-Tai",
+    "Family": "Tai-Kadai",
+    "Area": "Eurasia",
+    "Dem": "xo",
+    "Num": "xo",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "More_Info": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Samples": [],
+    "iso_codes": "kmc",
+    "Glottocode": "sout2741",
+    "Glottoname": "Southern Dong",
+    "Subfamily": ""
+}

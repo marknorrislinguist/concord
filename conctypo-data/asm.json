@@ -1,0 +1,29 @@
+{
+    "code": "asm",
+    "Language": "Asmat",
+    "Genus": "Asmat-Kamoro",
+    "Family": "Trans-New Guinea",
+    "Area": "Papunesia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "tml",
+    "Glottocode": "tamn1235",
+    "Glottoname": "Tamnim Citak",
+    "Subfamily": ""
+}

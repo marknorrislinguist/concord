@@ -1,0 +1,27 @@
+{
+    "code": "der",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Dla (Proper)",
+    "Area": "Papunesia",
+    "iso_codes": "kbv",
+    "Glottocode": "dera1245",
+    "Glottoname": "Dera (Indonesia)",
+    "Genus": "Senagi",
+    "Family": "Senagi",
+    "Subfamily": ""
+}

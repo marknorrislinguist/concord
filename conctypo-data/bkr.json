@@ -1,0 +1,29 @@
+{
+    "code": "bkr",
+    "Language": "Batak (Karo)",
+    "Genus": "Northwest Sumatra-Barrier Islands",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "x",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Adj_Concord": [],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "btx",
+    "Glottocode": "bata1293",
+    "Glottoname": "Batak Karo",
+    "Subfamily": ""
+}

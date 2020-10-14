@@ -1,0 +1,38 @@
+{
+    "code": "brs",
+    "Language": "Barasano",
+    "Genus": "Tucanoan",
+    "Family": "Tucanoan",
+    "Area": "South America",
+    "Dem": "gnc",
+    "Num": "gc",
+    "Adj": "g",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Case",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "bsn",
+    "Glottocode": "bara1380",
+    "Glottoname": "Barasana-Eduria",
+    "Subfamily": ""
+}

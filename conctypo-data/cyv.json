@@ -1,0 +1,28 @@
+{
+    "code": "cyv",
+    "Language": "Cayuvava",
+    "Genus": "Cayuvava",
+    "Family": "Cayuvava",
+    "Area": "South America",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "X",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "cyb",
+    "Glottocode": "cayu1262",
+    "Glottoname": "Cayubaba",
+    "Subfamily": ""
+}

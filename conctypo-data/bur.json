@@ -1,0 +1,37 @@
+{
+    "code": "bur",
+    "Language": "Burushaski",
+    "Genus": "Burushaski",
+    "Family": "Burushaski",
+    "Area": "Eurasia",
+    "Dem": "gn",
+    "Num": "g",
+    "Adj": "n",
+    "Type_wdef": "mixed-subsective-crossed",
+    "Type_nodef": "mixed-subsective-crossed",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "bsk",
+    "Glottocode": "buru1296",
+    "Glottoname": "Burushaski",
+    "Subfamily": ""
+}

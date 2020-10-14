@@ -1,0 +1,30 @@
+{
+    "code": "bam",
+    "Language": "Bambara",
+    "Genus": "Western Mande",
+    "Family": "Mande",
+    "Area": "Africa",
+    "Dem": "n",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-minimal-weak",
+    "Type_nodef": "indeterminate-minimal-weak",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "bam",
+    "Glottocode": "bamb1269",
+    "Glottoname": "Bambara",
+    "Subfamily": ""
+}

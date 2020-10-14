@@ -1,0 +1,30 @@
+{
+    "code": "brh",
+    "Language": "Brahui",
+    "Genus": "Northern Dravidian",
+    "Family": "Dravidian",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "d",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Def"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "brh",
+    "Glottocode": "brah1256",
+    "Glottoname": "Brahui",
+    "Subfamily": ""
+}

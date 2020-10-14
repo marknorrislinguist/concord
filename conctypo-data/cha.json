@@ -1,0 +1,29 @@
+{
+    "code": "cha",
+    "Language": "Chamorro",
+    "Genus": "Chamorro",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "cha",
+    "Glottocode": "cham1312",
+    "Glottoname": "Chamorro",
+    "Subfamily": ""
+}

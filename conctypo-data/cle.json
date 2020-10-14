@@ -1,0 +1,34 @@
+{
+    "code": "cle",
+    "Language": "Chinantec (Lealao)",
+    "Genus": "Chinantecan",
+    "Family": "Oto-Manguean",
+    "Area": "North America",
+    "Dem": "g",
+    "Num": "g",
+    "Adj": "g",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "cle",
+    "Glottocode": "leal1235",
+    "Glottoname": "Lealao Chinantec",
+    "Subfamily": ""
+}

@@ -1,0 +1,32 @@
+{
+    "code": "chi",
+    "Language": "Chimariko",
+    "Genus": "Chimariko",
+    "Family": "Hokan",
+    "Area": "North America",
+    "Dem": "xo",
+    "Num": "xo",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "More_Info": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Samples": [
+        "Hasp-100"
+    ],
+    "iso_codes": "cid",
+    "Glottocode": "chim1301",
+    "Glottoname": "Chimariko",
+    "Subfamily": ""
+}

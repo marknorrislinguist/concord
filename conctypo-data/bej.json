@@ -1,0 +1,38 @@
+{
+    "code": "bej",
+    "Language": "Beja",
+    "Genus": "Beja",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "gnc",
+    "Num": "g",
+    "Adj": "gnd",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "bej",
+    "Glottocode": "beja1238",
+    "Glottoname": "Beja",
+    "Subfamily": "Cushitic"
+}

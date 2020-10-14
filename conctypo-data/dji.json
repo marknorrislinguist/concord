@@ -1,0 +1,39 @@
+{
+    "code": "dji",
+    "Dem": "gnc",
+    "Num": "gn",
+    "Adj": "gnc",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Notes": "Gender assignment could be predominantly semantic",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Djingili",
+    "Area": "Australia",
+    "iso_codes": "jig",
+    "Glottocode": "djin1251",
+    "Glottoname": "Jingulu",
+    "Genus": "Djingili",
+    "Family": "Mirndi",
+    "Subfamily": ""
+}

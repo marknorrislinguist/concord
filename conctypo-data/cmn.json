@@ -1,0 +1,36 @@
+{
+    "code": "cmn",
+    "Language": "Comanche",
+    "Genus": "Numic",
+    "Family": "Uto-Aztecan",
+    "Area": "North America",
+    "Dem": "nc",
+    "Num": "c",
+    "Adj": "nc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "com",
+    "Glottocode": "coma1245",
+    "Glottoname": "Comanche",
+    "Subfamily": ""
+}

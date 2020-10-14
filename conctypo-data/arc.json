@@ -1,0 +1,34 @@
+{
+    "code": "arc",
+    "Language": "Archi",
+    "Genus": "Lezgic",
+    "Family": "Nakh-Daghestanian",
+    "Area": "Eurasia",
+    "Dem": "gn",
+    "Num": "gn",
+    "Adj": "gn",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "aqc",
+    "Glottocode": "arch1244",
+    "Glottoname": "Archi",
+    "Subfamily": "Daghestanian"
+}

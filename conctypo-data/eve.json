@@ -1,0 +1,38 @@
+{
+    "code": "eve",
+    "Language": "Evenki",
+    "Genus": "Tungusic",
+    "Family": "Altaic",
+    "Area": "Eurasia",
+    "Dem": "nc",
+    "Num": "c",
+    "Adj": "ncd",
+    "Type_wdef": "mixed-subsective-demnodef",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Def"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "Hasp-100"
+    ],
+    "iso_codes": "evn",
+    "Glottocode": "even1259",
+    "Glottoname": "Evenki",
+    "Subfamily": ""
+}

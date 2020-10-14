@@ -1,0 +1,37 @@
+{
+    "code": "chk",
+    "Language": "Chukchi",
+    "Genus": "Northern Chukotko-Kamchatkan",
+    "Family": "Chukotko-Kamchatkan",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "X",
+    "Adj": "pn",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Person"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "ckt",
+    "Glottocode": "chuk1273",
+    "Glottoname": "Chukchi",
+    "Subfamily": ""
+}

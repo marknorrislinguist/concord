@@ -1,0 +1,30 @@
+{
+    "code": "coo",
+    "Language": "Coos (Hanis)",
+    "Genus": "Coosan",
+    "Family": "Oregon Coast",
+    "Area": "North America",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "csz",
+    "Glottocode": "coos1249",
+    "Glottoname": "Hanis",
+    "Subfamily": ""
+}

@@ -1,0 +1,30 @@
+{
+    "code": "ala",
+    "Language": "Alamblak",
+    "Genus": "Sepik Hill",
+    "Family": "Sepik",
+    "Area": "Papunesia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-1cat-Donly",
+    "Type_nodef": "indeterminate-1cat-Donly",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "amp",
+    "Glottocode": "alam1246",
+    "Glottoname": "Alamblak",
+    "Subfamily": ""
+}
