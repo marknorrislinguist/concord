@@ -1,8 +1,15 @@
 # What is concord?
 
-A home for the scripts I write to process/manage the data for the concord typology (static archive at SHAREOK: [Nominal concord](https://shareok.org/handle/11244/320354); new updates archived at OSF: [Nominal concord at OSF](https://osf.io/tm49q/).
+A home for the scripts I write to process/manage the data for the concord typology (static archive at SHAREOK: [Nominal concord](https://shareok.org/handle/11244/320354); academic project archived here: [Nominal concord at OSF](https://osf.io/tm49q/).
 
 ## Contents
+
+### conctypo-data/
+This directory contains all of the JSON files containing the coded data for the project. 
+
+### lgs_with_wals.csv
+This CSV contains all of the processed data as one CSV, including cross-referenced WALS data that is relevant for the project. Some of the WALS data was coded by me (as opposed to the author of the original WALS chapters). Those cells end with an asterisk `*`.
+
 ### conctypo-to-csv.py
 Processes individual JSON files and saves the data as one CSV. Command to run the script:
 
@@ -18,6 +25,3 @@ Output contains relevant classificatory data for the languages (based on [WALS](
   - Case_CAT: does CAT show case concord?
   
  "Yes" is coded 1, "No" is coded 0.
-
-### conctypo-data/
-Just a small number of sample JSON files to be able to run the code. JSON files for all languages coded so far are available in the [OSF repository](https://osf.io/tm49q/).
