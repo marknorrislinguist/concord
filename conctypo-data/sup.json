@@ -1,0 +1,38 @@
+{
+    "code": "sup",
+    "Language": "Supyire",
+    "Genus": "Gur",
+    "Family": "Niger-Congo",
+    "Area": "Africa",
+    "Dem": "gn",
+    "Num": "d",
+    "Adj": "gnd",
+    "Type_wdef": "mixed-subsective-crossed",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Def"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "spp",
+    "Glottocode": "supy1237",
+    "Glottoname": "Supyire Senoufo",
+    "Subfamily": ""
+}

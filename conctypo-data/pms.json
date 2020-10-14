@@ -1,0 +1,27 @@
+{
+    "code": "pms",
+    "Language": "Paamese",
+    "Genus": "Oceanic",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "pma",
+    "Glottocode": "paam1238",
+    "Glottoname": "Paama",
+    "Subfamily": "Eastern Malayo-Polynesian"
+}

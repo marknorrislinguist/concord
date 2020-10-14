@@ -1,0 +1,28 @@
+{
+    "code": "qux-iso",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Num",
+        "Adj",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Dem_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Notes": "number outside possessor agreement",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Yauyos Quechua",
+    "iso_codes": "",
+    "Glottocode": "yauy1235",
+    "Glottoname": "Huangascar-Topara-Yauyos Quechua",
+    "Area": "South America",
+    "Genus": "Quechuan",
+    "Family": "Quechuan",
+    "Subfamily": ""
+}

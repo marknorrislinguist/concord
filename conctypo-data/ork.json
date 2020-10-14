@@ -1,0 +1,28 @@
+{
+    "code": "ork",
+    "Language": "Orok",
+    "Genus": "Tunguistic",
+    "Family": "Altaic",
+    "Area": "Eurasia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "nc",
+    "Type_wdef": "indeterminate-1cat",
+    "Type_nodef": "indeterminate-1cat",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number",
+        "Case"
+    ],
+    "Samples": [],
+    "iso_codes": "oaa",
+    "Glottocode": "orok1265",
+    "Glottoname": "Orok",
+    "Subfamily": ""
+}

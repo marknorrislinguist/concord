@@ -1,0 +1,27 @@
+{
+    "code": "pmc",
+    "Language": "Pomo (Central)",
+    "Genus": "Pomoan",
+    "Family": "Hokan",
+    "Area": "North America",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Samples": [],
+    "iso_codes": "poo",
+    "Glottocode": "cent2138",
+    "Glottoname": "Central Pomo",
+    "Subfamily": ""
+}

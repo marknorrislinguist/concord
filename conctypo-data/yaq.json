@@ -1,0 +1,35 @@
+{
+    "code": "yaq",
+    "Language": "Yaqui",
+    "Genus": "Cahita",
+    "Family": "Uto-Aztecan",
+    "Area": "North America",
+    "Dem": "nc",
+    "Num": "X",
+    "Adj": "nc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "yaq",
+    "Glottocode": "yaqu1251",
+    "Glottoname": "Yaqui",
+    "Subfamily": ""
+}

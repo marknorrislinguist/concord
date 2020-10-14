@@ -1,0 +1,32 @@
+{
+    "code": "tsh",
+    "Language": "T\u00fcmpisa Shoshone",
+    "Genus": "Numic",
+    "Family": "Uto-Aztecan",
+    "Area": "North America",
+    "Dem": "nc",
+    "Num": "c",
+    "Adj": "c",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Case"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Adj_Concord": [
+        "Case"
+    ],
+    "Samples": [],
+    "iso_codes": "par",
+    "Glottocode": "pana1305",
+    "Glottoname": "Panamint",
+    "Subfamily": ""
+}

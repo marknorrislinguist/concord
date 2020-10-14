@@ -1,0 +1,33 @@
+{
+    "code": "prs",
+    "Language": "Persian",
+    "Genus": "Iranian",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "n",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-minimal-clf",
+    "Type_nodef": "indeterminate-minimal-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "pes",
+    "Glottocode": "west2369",
+    "Glottoname": "Western Farsi",
+    "Subfamily": ""
+}

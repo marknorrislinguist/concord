@@ -1,0 +1,35 @@
+{
+    "code": "nen",
+    "Language": "Nenets",
+    "Genus": "Samoyedic",
+    "Family": "Uralic",
+    "Area": "Eurasia",
+    "Dem": "n",
+    "Num": "n",
+    "Adj": "nc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [
+        "Number"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "yrk",
+    "Glottocode": "nene1249",
+    "Glottoname": "Tundra Nenets",
+    "Subfamily": ""
+}

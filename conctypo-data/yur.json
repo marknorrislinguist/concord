@@ -1,0 +1,32 @@
+{
+    "code": "yur",
+    "Language": "Yurok",
+    "Genus": "Yurok",
+    "Family": "Algic",
+    "Area": "North America",
+    "Dem": "X",
+    "Num": "f",
+    "Adj": "f",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Clf"
+    ],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "yur",
+    "Glottocode": "yuro1248",
+    "Glottoname": "Yurok",
+    "Subfamily": ""
+}

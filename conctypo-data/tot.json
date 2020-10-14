@@ -1,0 +1,29 @@
+{
+    "code": "tot",
+    "Language": "Totonac (Misantla)",
+    "Genus": "Totonacan",
+    "Family": "Totonacan",
+    "Area": "North America",
+    "Dem": "x",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Adj_Concord": [],
+    "Samples": [
+        "Hasp-100"
+    ],
+    "iso_codes": "tlc",
+    "Glottocode": "yecu1235",
+    "Glottoname": "Yecuatla Totonac",
+    "Subfamily": ""
+}

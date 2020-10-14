@@ -1,0 +1,27 @@
+{
+    "code": "ndy",
+    "Language": "Ndyuka",
+    "Genus": "Creoles and Pidgins",
+    "Family": "other",
+    "Area": "South America",
+    "Dem": "z",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-minimal-Donly",
+    "Type_nodef": "indeterminate-minimal-Donly",
+    "Cat_Inv": [
+        "Adj",
+        "Num"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "Dem_Concord": "ndy has no Dem",
+    "iso_codes": "djk",
+    "Glottocode": "ndyu1242",
+    "Glottoname": "Aukan",
+    "Subfamily": ""
+}

@@ -1,0 +1,33 @@
+{
+    "code": "squ",
+    "Language": "Squamish",
+    "Genus": "Central Salish",
+    "Family": "Salishan",
+    "Area": "North America",
+    "Dem": "gn",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-1cat-clf",
+    "Type_nodef": "indeterminate-1cat-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "squ",
+    "Glottocode": "squa1248",
+    "Glottoname": "Squamish",
+    "Subfamily": ""
+}

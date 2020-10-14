@@ -1,0 +1,31 @@
+{
+    "code": "tru",
+    "Language": "Trumai",
+    "Genus": "Trumai",
+    "Family": "Trumai",
+    "Area": "South America",
+    "Dem": "g",
+    "Num": "X",
+    "Adj": "X",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "Hasp-100"
+    ],
+    "iso_codes": "tpy",
+    "Glottocode": "trum1247",
+    "Glottoname": "Trumai",
+    "Subfamily": ""
+}

@@ -1,0 +1,32 @@
+{
+    "code": "rap",
+    "Language": "Rapanui",
+    "Genus": "Oceanic",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "x",
+    "Num": "f",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-minimal-clf",
+    "Type_nodef": "indeterminate-minimal-clf",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "rap",
+    "Glottocode": "rapa1244",
+    "Glottoname": "Rapanui",
+    "Subfamily": "Eastern Malayo-Polynesian"
+}

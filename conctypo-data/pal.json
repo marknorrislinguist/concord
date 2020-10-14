@@ -1,0 +1,29 @@
+{
+    "code": "pal",
+    "Language": "Palauan",
+    "Genus": "Palauan",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "gn",
+    "Num": "f",
+    "Adj": "z",
+    "Type_wdef": "indeterminate-1cat-clf",
+    "Type_nodef": "indeterminate-1cat-clf",
+    "Cat_Inv": [
+        "Dem",
+        "Num"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Adj_Concord": "pal has no Adj",
+    "Samples": [],
+    "iso_codes": "pau",
+    "Glottocode": "pala1344",
+    "Glottoname": "Palauan",
+    "Subfamily": ""
+}

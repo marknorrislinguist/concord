@@ -1,0 +1,27 @@
+{
+    "code": "pit",
+    "Language": "Pitjantjatjara",
+    "Genus": "Western Pama-Nyungan",
+    "Family": "Pama-Nyungan",
+    "Area": "Australia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "pjt",
+    "Glottocode": "pitj1243",
+    "Glottoname": "Pitjantjatjara",
+    "Subfamily": ""
+}

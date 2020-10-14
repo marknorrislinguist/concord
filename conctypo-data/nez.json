@@ -1,0 +1,37 @@
+{
+    "code": "nez",
+    "Language": "Nez Perce",
+    "Genus": "Sahaptian",
+    "Family": "Penutian",
+    "Area": "North America",
+    "Dem": "nc",
+    "Num": "gc",
+    "Adj": "nc",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "mixed-nonsubsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [
+        "Case",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "nez",
+    "Glottocode": "nezp1238",
+    "Glottoname": "Nez Perce",
+    "Subfamily": ""
+}

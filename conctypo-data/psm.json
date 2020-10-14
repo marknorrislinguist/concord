@@ -1,0 +1,32 @@
+{
+    "code": "psm",
+    "Language": "Passamaquoddy-Maliseet",
+    "Genus": "Algonquian",
+    "Family": "Algic",
+    "Area": "North America",
+    "Dem": "gn",
+    "Num": "gn",
+    "Adj": "z",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Adj_Concord": "psm has no Adj",
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "pqm",
+    "Glottocode": "male1292",
+    "Glottoname": "Malecite-Passamaquoddy",
+    "Subfamily": ""
+}

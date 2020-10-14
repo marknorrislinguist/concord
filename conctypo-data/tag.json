@@ -1,0 +1,34 @@
+{
+    "code": "tag",
+    "Language": "Tagalog",
+    "Genus": "Greater Central Philippine",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "c",
+    "Num": "X",
+    "Adj": "n",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "mixed-nonsubsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "tgl",
+    "Glottocode": "taga1270",
+    "Glottoname": "Tagalog",
+    "Subfamily": ""
+}

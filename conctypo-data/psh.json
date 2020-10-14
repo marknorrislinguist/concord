@@ -1,0 +1,37 @@
+{
+    "code": "psh",
+    "Language": "Pashto",
+    "Genus": "Iranian",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "gnc",
+    "Adj": "gnc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "pst",
+    "Glottocode": "cent1973",
+    "Glottoname": "Central Pashto",
+    "Subfamily": ""
+}

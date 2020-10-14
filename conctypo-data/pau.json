@@ -1,0 +1,36 @@
+{
+    "code": "pau",
+    "Language": "Paumar\u2019",
+    "Genus": "Arauan",
+    "Family": "Arauan",
+    "Area": "South America",
+    "Dem": "gn",
+    "Num": "gn",
+    "Adj": "gh",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "mixed-nonsubsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "pad",
+    "Glottocode": "paum1247",
+    "Glottoname": "Paumari",
+    "Subfamily": ""
+}

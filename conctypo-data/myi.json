@@ -1,0 +1,38 @@
+{
+    "code": "myi",
+    "Language": "Mangarrayi",
+    "Genus": "Mangarrayi",
+    "Family": "Mangarrayi-Maran",
+    "Area": "Australia",
+    "Dem": "gnc",
+    "Num": "X",
+    "Adj": "gnc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "mpc",
+    "Glottocode": "mang1381",
+    "Glottoname": "Mangarrayi",
+    "Subfamily": ""
+}

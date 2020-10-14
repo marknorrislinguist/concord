@@ -1,0 +1,30 @@
+{
+    "code": "tli",
+    "Language": "Tlingit",
+    "Genus": "Tlingit",
+    "Family": "Na-Dene",
+    "Area": "North America",
+    "Dem": "X",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "tli",
+    "Glottocode": "tlin1245",
+    "Glottoname": "Tlingit",
+    "Subfamily": ""
+}

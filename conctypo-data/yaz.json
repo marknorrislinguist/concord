@@ -1,0 +1,27 @@
+{
+    "code": "yaz",
+    "Language": "Yazgulyam",
+    "Genus": "Iranian",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "x",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Adj_Concord": [],
+    "Samples": [],
+    "iso_codes": "yah",
+    "Glottocode": "yazg1240",
+    "Glottoname": "Yazgulyam",
+    "Subfamily": ""
+}

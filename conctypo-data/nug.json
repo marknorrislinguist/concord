@@ -1,0 +1,42 @@
+{
+    "code": "nug",
+    "Language": "Nunggubuyu",
+    "Genus": "Nunggubuyu",
+    "Family": "Gunwinyguan",
+    "Area": "Australia",
+    "Dem": "gnc",
+    "Num": "gno",
+    "Adj": "gnc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "More_Info": [
+        "Num"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "nuy",
+    "Glottocode": "nung1290",
+    "Glottoname": "Wubuy",
+    "Subfamily": "Gunwinyguan"
+}

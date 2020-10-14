@@ -1,0 +1,32 @@
+{
+    "code": "sel",
+    "Language": "Selknam",
+    "Genus": "Chon Proper",
+    "Family": "Chon",
+    "Area": "South America",
+    "Dem": "gn",
+    "Num": "g",
+    "Adj": "z",
+    "Type_wdef": "uniform-numnonum",
+    "Type_nodef": "uniform-numnonum",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "Adj_Concord": "sel has no Adj",
+    "iso_codes": "ona",
+    "Glottocode": "onaa1245",
+    "Glottoname": "Selk'nam",
+    "Subfamily": ""
+}

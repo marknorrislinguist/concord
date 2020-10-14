@@ -1,0 +1,32 @@
+{
+    "code": "yrc",
+    "Dem": "x",
+    "Num": "n",
+    "Adj": "n",
+    "Cat_Inv": [
+        "Num",
+        "Adj",
+        "Dem"
+    ],
+    "Num_Concord": [
+        "Number"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Dem_Concord": [],
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Notes": "adjective concord is marginal and seems highly optional",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Yuracare",
+    "Area": "South America",
+    "iso_codes": "yuz",
+    "Glottocode": "yura1255",
+    "Glottoname": "Yuracar\u00e9",
+    "Genus": "Yuracare",
+    "Family": "Yuracare",
+    "Subfamily": ""
+}

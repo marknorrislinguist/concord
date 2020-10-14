@@ -1,0 +1,30 @@
+{
+    "code": "niv",
+    "Language": "Nivkh",
+    "Genus": "Nivkh",
+    "Family": "Nivkh",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "f",
+    "Adj": "z",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "Hasp-100"
+    ],
+    "Adj_Concord": "niv has no Adj",
+    "iso_codes": "niv",
+    "Glottocode": "gily1242",
+    "Glottoname": "Amur Nivkh",
+    "Subfamily": ""
+}

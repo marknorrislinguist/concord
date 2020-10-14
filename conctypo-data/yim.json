@@ -1,0 +1,37 @@
+{
+    "code": "yim",
+    "Language": "Yimas",
+    "Genus": "Lower Sepik",
+    "Family": "Lower Sepik-Ramu",
+    "Area": "Papunesia",
+    "Dem": "gn",
+    "Num": "g",
+    "Adj": "gn",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "Hasp-100"
+    ],
+    "iso_codes": "yee",
+    "Glottocode": "yima1243",
+    "Glottoname": "Yimas",
+    "Subfamily": ""
+}

@@ -1,0 +1,25 @@
+{
+    "code": "ykt",
+    "Language": "Yakut",
+    "Genus": "Turkic",
+    "Family": "Altaic",
+    "Area": "Eurasia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Samples": [],
+    "iso_codes": "sah",
+    "Glottocode": "yaku1245",
+    "Glottoname": "Sakha",
+    "Subfamily": ""
+}

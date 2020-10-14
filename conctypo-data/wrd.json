@@ -1,0 +1,37 @@
+{
+    "code": "wrd",
+    "Language": "Wardaman",
+    "Genus": "Yangmanic",
+    "Family": "Yangmanic",
+    "Area": "Australia",
+    "Dem": "nc",
+    "Num": "c",
+    "Adj": "gnc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "wrr",
+    "Glottocode": "ward1246",
+    "Glottoname": "Wardaman",
+    "Subfamily": "Gunwinyguan"
+}

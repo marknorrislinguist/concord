@@ -1,0 +1,36 @@
+{
+    "code": "ypk",
+    "Language": "Yup'ik (Central)",
+    "Genus": "Eskimo",
+    "Family": "Eskimo-Aleut",
+    "Area": "North America",
+    "Dem": "nc",
+    "Num": "nc",
+    "Adj": "nc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Case"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Case"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Case"
+    ],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "esu",
+    "Glottocode": "cent2127",
+    "Glottoname": "Central Alaskan Yupik",
+    "Subfamily": ""
+}

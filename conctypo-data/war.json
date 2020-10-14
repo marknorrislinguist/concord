@@ -1,0 +1,31 @@
+{
+    "code": "war",
+    "Language": "Wari'",
+    "Genus": "Chapacura-Wanham",
+    "Family": "Chapacura-Wanham",
+    "Area": "South America",
+    "Dem": "g",
+    "Num": "X",
+    "Adj": "z",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "Adj_Concord": "war has no Adj",
+    "iso_codes": "pav",
+    "Glottocode": "wari1268",
+    "Glottoname": "Wari'",
+    "Subfamily": ""
+}

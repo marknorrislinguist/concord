@@ -1,0 +1,32 @@
+{
+    "code": "nht",
+    "Language": "Nahuatl (Tetelcingo)",
+    "Genus": "Aztecan",
+    "Family": "Uto-Aztecan",
+    "Area": "North America",
+    "Dem": "n",
+    "Num": "f",
+    "Adj": "X",
+    "Type_wdef": "indeterminate-minimal-clf",
+    "Type_nodef": "indeterminate-minimal-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "nhg",
+    "Glottocode": "tete1251",
+    "Glottoname": "Tetelcingo Nahuatl",
+    "Subfamily": ""
+}

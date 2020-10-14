@@ -1,0 +1,36 @@
+{
+    "code": "orh",
+    "Language": "Oromo (Harar)",
+    "Genus": "Lowland East Cushitic",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "gc",
+    "Num": "X",
+    "Adj": "gnc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "hae",
+    "Glottocode": "east2652",
+    "Glottoname": "Eastern Oromo",
+    "Subfamily": "Cushitic"
+}

@@ -1,0 +1,34 @@
+{
+    "code": "tha",
+    "Language": "Thai",
+    "Genus": "Kam-Tai",
+    "Family": "Tai-Kadai",
+    "Area": "Eurasia",
+    "Dem": "xo",
+    "Num": "xo",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "More_Info": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "tha",
+    "Glottocode": "thai1261",
+    "Glottoname": "Thai",
+    "Subfamily": ""
+}

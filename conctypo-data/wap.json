@@ -1,0 +1,30 @@
+{
+    "code": "wap",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "n",
+    "Cat_Inv": [
+        "Num",
+        "Dem",
+        "Adj"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Notes": "plausible case concord but just not on dem, num, adj",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Wappo",
+    "Area": "North America",
+    "iso_codes": "wao",
+    "Glottocode": "wapp1239",
+    "Glottoname": "Wappo",
+    "Genus": "Wappo",
+    "Family": "Wappo-Yukian",
+    "Subfamily": ""
+}
