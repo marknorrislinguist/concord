@@ -1,0 +1,32 @@
+{
+    "code": "mrl",
+    "Language": "Murle",
+    "Genus": "Surmic",
+    "Family": "Eastern Sudanic",
+    "Area": "Africa",
+    "Dem": "n",
+    "Num": "X",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "mur",
+    "Glottocode": "murl1244",
+    "Glottoname": "Murle",
+    "Subfamily": ""
+}

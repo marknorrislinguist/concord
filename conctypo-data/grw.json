@@ -1,0 +1,38 @@
+{
+    "code": "grw",
+    "Language": "Greenlandic (West)",
+    "Genus": "Eskimo",
+    "Family": "Eskimo-Aleut",
+    "Area": "Eurasia",
+    "Dem": "nc",
+    "Num": "nc",
+    "Adj": "nc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "kal",
+    "Glottocode": "kala1399",
+    "Glottoname": "Kalaallisut",
+    "Subfamily": ""
+}

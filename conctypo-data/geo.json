@@ -1,0 +1,35 @@
+{
+    "code": "geo",
+    "Language": "Georgian",
+    "Genus": "Kartvelian",
+    "Family": "Kartvelian",
+    "Area": "Eurasia",
+    "Dem": "c",
+    "Num": "c",
+    "Adj": "c",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Dem_Concord": [
+        "Case"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "kat",
+    "Glottocode": "nucl1302",
+    "Glottoname": "Georgian",
+    "Subfamily": ""
+}

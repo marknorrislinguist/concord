@@ -1,0 +1,34 @@
+{
+    "code": "gmz",
+    "Dem": "c",
+    "Num": "c",
+    "Adj": "c",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Case"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Adj_Concord": [
+        "Case"
+    ],
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Notes": "something on adjectives that I don't want to call number concord",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Gumuz",
+    "Area": "Africa",
+    "iso_codes": "guk",
+    "Glottocode": "gumu1244",
+    "Glottoname": "Northern Gumuz",
+    "Genus": "Gumuz",
+    "Family": "Gumuz",
+    "Subfamily": ""
+}

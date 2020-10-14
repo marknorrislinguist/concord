@@ -1,0 +1,29 @@
+{
+    "code": "gae",
+    "Language": "Gaelic (Scots)",
+    "Genus": "Celtic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "gnc",
+    "Type_wdef": "indeterminate-1cat",
+    "Type_nodef": "indeterminate-1cat",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "gla",
+    "Glottocode": "scot1245",
+    "Glottoname": "Scottish Gaelic",
+    "Subfamily": ""
+}

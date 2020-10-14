@@ -1,0 +1,30 @@
+{
+    "code": "khs",
+    "Language": "Khasi",
+    "Genus": "Khasian",
+    "Family": "Austro-Asiatic",
+    "Area": "Eurasia",
+    "Dem": "gn",
+    "Num": "X",
+    "Adj": "z",
+    "Type_wdef": "indeterminate-1cat",
+    "Type_nodef": "indeterminate-1cat",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "Adj_Concord": "khs has no Adj",
+    "iso_codes": "kha",
+    "Glottocode": "khas1269",
+    "Glottoname": "Khasi",
+    "Subfamily": "Mon-Khmer"
+}

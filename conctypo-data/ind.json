@@ -1,0 +1,31 @@
+{
+    "code": "ind",
+    "Language": "Indonesian",
+    "Genus": "Malayo-Sumbawan",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "X",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "ind",
+    "Glottocode": "indo1316",
+    "Glottoname": "Indonesian",
+    "Subfamily": ""
+}

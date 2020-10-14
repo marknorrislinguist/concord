@@ -1,0 +1,31 @@
+{
+    "code": "kwz",
+    "Language": "Kwaza",
+    "Genus": "Kwaza",
+    "Family": "Kwaza",
+    "Area": "South America",
+    "Dem": "g",
+    "Num": "gf",
+    "Adj": "g",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Gender"
+    ],
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Notes": "what I called gender is called classifiers traditionally, but theyre very gender-like",
+    "iso_codes": "xwa",
+    "Glottocode": "kwaz1243",
+    "Glottoname": "Kwaza",
+    "Subfamily": ""
+}

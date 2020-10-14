@@ -1,0 +1,35 @@
+{
+    "code": "lak",
+    "Language": "Lak",
+    "Genus": "Lak-Dargwa",
+    "Family": "Nakh-Daghestanian",
+    "Area": "Eurasia",
+    "Dem": "n",
+    "Num": "g",
+    "Adj": "gn",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "lbe",
+    "Glottocode": "lakk1252",
+    "Glottoname": "Lak",
+    "Subfamily": "Daghestanian"
+}

@@ -1,0 +1,34 @@
+{
+    "code": "mab",
+    "Language": "Maba",
+    "Genus": "Maban",
+    "Family": "Maban",
+    "Area": "Africa",
+    "Dem": "n",
+    "Num": "f",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-1ft-clf",
+    "Type_nodef": "indeterminate-1ft-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "mde",
+    "Glottocode": "maba1277",
+    "Glottoname": "Maba (Chad)",
+    "Subfamily": ""
+}

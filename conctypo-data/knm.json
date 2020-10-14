@@ -1,0 +1,34 @@
+{
+    "code": "knm",
+    "Language": "Kunama",
+    "Genus": "Kunama",
+    "Family": "Kunama",
+    "Area": "Africa",
+    "Dem": "n",
+    "Num": "n",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [
+        "Number"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "kun",
+    "Glottocode": "kuna1268",
+    "Glottoname": "Kunama",
+    "Subfamily": ""
+}

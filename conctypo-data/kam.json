@@ -1,0 +1,27 @@
+{
+    "code": "kam",
+    "Language": "Kambera",
+    "Genus": "Central Malayo-Polynesian",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "n",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Samples": [],
+    "iso_codes": "xbr",
+    "Glottocode": "kamb1299",
+    "Glottoname": "Kambera",
+    "Subfamily": ""
+}

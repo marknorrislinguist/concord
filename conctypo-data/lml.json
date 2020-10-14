@@ -1,0 +1,34 @@
+{
+    "code": "lml",
+    "Dem": "gn",
+    "Num": "x",
+    "Adj": "gn",
+    "Cat_Inv": [
+        "Num",
+        "Dem",
+        "Adj"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Gender",
+        "Number"
+    ],
+    "Adj_Concord": [
+        "Gender",
+        "Number"
+    ],
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Notes": "No robust number but there are a few nouns and adjectives with plural forms",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Limilngan",
+    "Area": "Australia",
+    "iso_codes": "lmc",
+    "Glottocode": "nucl1327",
+    "Glottoname": "Limilngan",
+    "Genus": "Limilngan",
+    "Family": "Darwin Region",
+    "Subfamily": ""
+}

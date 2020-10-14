@@ -1,0 +1,31 @@
+{
+    "code": "hun",
+    "Language": "Hungarian",
+    "Genus": "Ugric",
+    "Family": "Uralic",
+    "Area": "Eurasia",
+    "Dem": "nc",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-1cat",
+    "Type_nodef": "indeterminate-1cat",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "hun",
+    "Glottocode": "hung1274",
+    "Glottoname": "Hungarian",
+    "Subfamily": "Finno-Ugric"
+}

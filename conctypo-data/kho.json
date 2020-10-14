@@ -1,0 +1,29 @@
+{
+    "code": "kho",
+    "Language": "Khoekhoe",
+    "Genus": "Khoe-Kwadi",
+    "Family": "Khoe-Kwadi",
+    "Area": "Africa",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "X",
+    "Type_wdef": "indeterminate-1cat-Donly",
+    "Type_nodef": "indeterminate-1cat-Donly",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "naq",
+    "Glottocode": "nama1264",
+    "Glottoname": "Nama (Namibia)",
+    "Subfamily": ""
+}

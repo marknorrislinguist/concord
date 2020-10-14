@@ -1,0 +1,31 @@
+{
+    "code": "mak",
+    "Language": "Makah",
+    "Genus": "Southern Wakashan",
+    "Family": "Wakashan",
+    "Area": "North America",
+    "Dem": "X",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "myh",
+    "Glottocode": "maka1318",
+    "Glottoname": "Makah",
+    "Subfamily": ""
+}

@@ -1,0 +1,30 @@
+{
+    "code": "imo",
+    "Language": "Imonda",
+    "Genus": "Border",
+    "Family": "Border",
+    "Area": "Papunesia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "imn",
+    "Glottocode": "imon1245",
+    "Glottoname": "Imonda",
+    "Subfamily": ""
+}

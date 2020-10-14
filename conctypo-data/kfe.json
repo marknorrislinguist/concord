@@ -1,0 +1,35 @@
+{
+    "code": "kfe",
+    "Language": "Koromfe",
+    "Genus": "Gur",
+    "Family": "Niger-Congo",
+    "Area": "Africa",
+    "Dem": "gn",
+    "Num": "n",
+    "Adj": "gn",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "kfz",
+    "Glottocode": "koro1298",
+    "Glottoname": "Koromf\u00e9",
+    "Subfamily": "Gur"
+}

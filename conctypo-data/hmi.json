@@ -1,0 +1,28 @@
+{
+    "code": "hmi",
+    "Language": "Huitoto (Minica)",
+    "Genus": "Huitoto",
+    "Family": "Huitotoan",
+    "Area": "South America",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "hto",
+    "Glottocode": "mini1256",
+    "Glottoname": "Minica Huitoto",
+    "Subfamily": ""
+}

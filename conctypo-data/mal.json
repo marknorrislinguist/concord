@@ -1,0 +1,31 @@
+{
+    "code": "mal",
+    "Language": "Malagasy",
+    "Genus": "Barito",
+    "Family": "Austronesian",
+    "Area": "Africa",
+    "Dem": "n",
+    "Num": "X",
+    "Adj": "X",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "plt",
+    "Glottocode": "plat1254",
+    "Glottoname": "Plateau Malagasy",
+    "Subfamily": ""
+}

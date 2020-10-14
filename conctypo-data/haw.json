@@ -1,0 +1,28 @@
+{
+    "code": "haw",
+    "Language": "Hawaiian",
+    "Genus": "Polynesian",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "xo",
+    "Type_wdef": "indeterminate-minimal-Donly",
+    "Type_nodef": "indeterminate-minimal-Donly",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "More_Info": [
+        "Adj"
+    ],
+    "Samples": [],
+    "iso_codes": "haw",
+    "Glottocode": "hawa1245",
+    "Glottoname": "Hawaiian",
+    "Subfamily": "Eastern Malayo-Polynesian"
+}

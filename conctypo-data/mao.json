@@ -1,0 +1,33 @@
+{
+    "code": "mao",
+    "Language": "Maori",
+    "Genus": "Oceanic",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "n",
+    "Num": "g",
+    "Adj": "n",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "mixed-nonsubsective",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "mri",
+    "Glottocode": "maor1246",
+    "Glottoname": "Maori",
+    "Subfamily": "Eastern Malayo-Polynesian"
+}

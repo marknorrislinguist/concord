@@ -1,0 +1,33 @@
+{
+    "code": "irq",
+    "Language": "Iraqw",
+    "Genus": "Southern Cushitic",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "g",
+    "Num": "X",
+    "Adj": "gn",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "irk",
+    "Glottocode": "iraq1241",
+    "Glottoname": "Iraqw",
+    "Subfamily": "Cushitic"
+}

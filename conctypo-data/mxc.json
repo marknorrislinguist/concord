@@ -1,0 +1,32 @@
+{
+    "code": "mxc",
+    "Language": "Mixtec (Chalcatongo)",
+    "Genus": "Mixtecan",
+    "Family": "Oto-Manguean",
+    "Area": "North America",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "mig",
+    "Glottocode": "sanm1295",
+    "Glottoname": "San Miguel El Grande Mixtec",
+    "Subfamily": ""
+}

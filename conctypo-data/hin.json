@@ -1,0 +1,34 @@
+{
+    "code": "hin",
+    "Language": "Hindi",
+    "Genus": "Indic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "n",
+    "Num": "X",
+    "Adj": "gn",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "hin",
+    "Glottocode": "hind1269",
+    "Glottoname": "Hindi",
+    "Subfamily": ""
+}

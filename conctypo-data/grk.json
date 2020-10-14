@@ -1,0 +1,41 @@
+{
+    "code": "grk",
+    "Language": "Greek (Modern)",
+    "Genus": "Hellenic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "gnc",
+    "Adj": "gnc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "ell",
+    "Glottocode": "mode1248",
+    "Glottoname": "Modern Greek",
+    "Subfamily": ""
+}

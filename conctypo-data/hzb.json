@@ -1,0 +1,38 @@
+{
+    "code": "hzb",
+    "Language": "Hunzib",
+    "Genus": "Avar-Andic-Tsezic",
+    "Family": "Nakh-Daghestanian",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "c",
+    "Adj": "gnc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "huz",
+    "Glottocode": "hunz1247",
+    "Glottoname": "Hunzib",
+    "Subfamily": "Daghestanian"
+}

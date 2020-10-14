@@ -1,0 +1,38 @@
+{
+    "code": "mrt",
+    "Language": "Martuthunira",
+    "Genus": "Western Pama-Nyungan",
+    "Family": "Pama-Nyungan",
+    "Area": "Australia",
+    "Dem": "nc",
+    "Num": "c",
+    "Adj": "nc",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [
+        "Case"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "vma",
+    "Glottocode": "mart1255",
+    "Glottoname": "Martuthunira",
+    "Subfamily": ""
+}

@@ -1,0 +1,33 @@
+{
+    "code": "grb",
+    "Language": "Grebo",
+    "Genus": "Kru",
+    "Family": "Niger-Congo",
+    "Area": "Africa",
+    "Dem": "n",
+    "Num": "X",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "grj",
+    "Glottocode": "barc1235",
+    "Glottoname": "Barclayville Grebo",
+    "Subfamily": ""
+}

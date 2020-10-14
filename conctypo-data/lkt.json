@@ -1,0 +1,34 @@
+{
+    "code": "lkt",
+    "Language": "Lakhota",
+    "Genus": "Core Siouan",
+    "Family": "Siouan",
+    "Area": "North America",
+    "Dem": "n",
+    "Num": "X",
+    "Adj": "n",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "lkt",
+    "Glottocode": "lako1247",
+    "Glottoname": "Lakota",
+    "Subfamily": ""
+}

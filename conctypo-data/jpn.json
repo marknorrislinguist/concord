@@ -1,0 +1,33 @@
+{
+    "code": "jpn",
+    "Language": "Japanese",
+    "Genus": "Japanese",
+    "Family": "Japanese",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "More_Info": [
+        "Adj"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "jpn",
+    "Glottocode": "nucl1643",
+    "Glottoname": "Japanese",
+    "Subfamily": ""
+}

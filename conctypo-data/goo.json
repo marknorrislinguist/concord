@@ -1,0 +1,31 @@
+{
+    "code": "goo",
+    "Language": "Gooniyandi",
+    "Genus": "Bunuban",
+    "Family": "Bunuban",
+    "Area": "Australia",
+    "Dem": "c",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "gni",
+    "Glottocode": "goon1238",
+    "Glottoname": "Gooniyandi",
+    "Subfamily": ""
+}

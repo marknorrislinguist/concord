@@ -1,0 +1,30 @@
+{
+    "code": "kut",
+    "Language": "Kutenai",
+    "Genus": "Kutenai",
+    "Family": "Kutenai",
+    "Area": "North America",
+    "Dem": "c",
+    "Num": "X",
+    "Adj": "z",
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "Adj_Concord": "kut has no Adj",
+    "iso_codes": "kut",
+    "Glottocode": "kute1249",
+    "Glottoname": "Kutenai",
+    "Subfamily": ""
+}

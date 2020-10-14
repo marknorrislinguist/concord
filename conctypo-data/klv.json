@@ -1,0 +1,34 @@
+{
+    "code": "klv",
+    "Language": "Kilivila",
+    "Genus": "Oceanic",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "gn",
+    "Num": "g",
+    "Adj": "g",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Adj_Concord": [
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "kij",
+    "Glottocode": "kili1267",
+    "Glottoname": "Kilivila",
+    "Subfamily": "Eastern Malayo-Polynesian"
+}

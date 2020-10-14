@@ -1,0 +1,34 @@
+{
+    "code": "mrd",
+    "Language": "Marind",
+    "Genus": "Marind Proper",
+    "Family": "Marind",
+    "Area": "Papunesia",
+    "Dem": "gn",
+    "Num": "X",
+    "Adj": "gn",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "mrz",
+    "Glottocode": "nucl1622",
+    "Glottoname": "Marind",
+    "Subfamily": ""
+}

@@ -1,0 +1,25 @@
+{
+    "code": "khk",
+    "Language": "Khakas",
+    "Genus": "Turkic",
+    "Family": "Altaic",
+    "Area": "Eurasia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Samples": [],
+    "iso_codes": "kjh",
+    "Glottocode": "khak1248",
+    "Glottoname": "Khakas",
+    "Subfamily": ""
+}

@@ -1,0 +1,27 @@
+{
+    "code": "mea",
+    "Dem": "x",
+    "Num": "f",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Num",
+        "Dem",
+        "Adj"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Adj_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Meyah",
+    "Area": "Papunesia",
+    "iso_codes": "mej",
+    "Glottocode": "meya1236",
+    "Glottoname": "Meyah",
+    "Genus": "East Bird's Head",
+    "Family": "East Bird's Head",
+    "Subfamily": ""
+}

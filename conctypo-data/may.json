@@ -1,0 +1,34 @@
+{
+    "code": "may",
+    "Language": "Maybrat",
+    "Genus": "North-Central Bird's Head",
+    "Family": "West Papuan",
+    "Area": "Papunesia",
+    "Dem": "g",
+    "Num": "X",
+    "Adj": "g",
+    "Type_wdef": "indeterminate-1ft",
+    "Type_nodef": "indeterminate-1ft",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "ayz",
+    "Glottocode": "maib1239",
+    "Glottoname": "Maybrat-Karon",
+    "Subfamily": ""
+}

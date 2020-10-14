@@ -1,0 +1,32 @@
+{
+    "code": "kha",
+    "Language": "Khalkha",
+    "Genus": "Mongolic",
+    "Family": "Altaic",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "More_Info": [
+        "Adj"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "khk",
+    "Glottocode": "halh1238",
+    "Glottoname": "Halh Mongolian",
+    "Subfamily": ""
+}

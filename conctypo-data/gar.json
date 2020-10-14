@@ -1,0 +1,30 @@
+{
+    "code": "gar",
+    "Language": "Garo",
+    "Genus": "Bodo-Garo",
+    "Family": "Sino-Tibetan",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "f",
+    "Adj": "x",
+    "Type_wdef": "none-clf",
+    "Type_nodef": "none-clf",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "grt",
+    "Glottocode": "garo1247",
+    "Glottoname": "Garo",
+    "Subfamily": "Tibeto-Burman"
+}

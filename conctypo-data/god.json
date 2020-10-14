@@ -1,0 +1,31 @@
+{
+    "code": "god",
+    "Language": "Godoberi",
+    "Genus": "Avar-Indic-Tsezic",
+    "Family": "Nakh-Daghestanian",
+    "Area": "Eurasia",
+    "Dem": "gn",
+    "Num": "x",
+    "Adj": "gn",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "gdo",
+    "Glottocode": "ghod1238",
+    "Glottoname": "Godoberi",
+    "Subfamily": "Daghestanian"
+}

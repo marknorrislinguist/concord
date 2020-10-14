@@ -1,0 +1,36 @@
+{
+    "code": "ker",
+    "Language": "Kera",
+    "Genus": "East Chadic",
+    "Family": "Afro-Asiatic",
+    "Area": "Africa",
+    "Dem": "gn",
+    "Num": "d",
+    "Adj": "gn",
+    "Type_wdef": "mixed-nonsubsective",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Def"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "ker",
+    "Glottocode": "kera1255",
+    "Glottoname": "Kera",
+    "Subfamily": "Chadic"
+}

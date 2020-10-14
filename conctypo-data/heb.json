@@ -1,0 +1,39 @@
+{
+    "code": "heb",
+    "Language": "Hebrew (Modern)",
+    "Genus": "Semitic",
+    "Family": "Afro-Asiatic",
+    "Area": "Eurasia",
+    "Dem": "gnd",
+    "Num": "g",
+    "Adj": "gnd",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "heb",
+    "Glottocode": "hebr1245",
+    "Glottoname": "Modern Hebrew",
+    "Subfamily": ""
+}

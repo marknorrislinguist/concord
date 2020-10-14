@@ -1,0 +1,27 @@
+{
+    "code": "kus",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Num",
+        "Adj",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [],
+    "Dem_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Family": "Kusunda",
+    "Subfamily": "",
+    "Genus": "Kusunda",
+    "ISO_codes": "kgg",
+    "Glottoname": "Kusunda",
+    "Glottocode": "kusu1250",
+    "Area": "Eurasia",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Kusunda"
+}

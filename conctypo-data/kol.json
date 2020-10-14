@@ -1,0 +1,31 @@
+{
+    "code": "kol",
+    "Language": "Kolami",
+    "Genus": "Central Dravidian",
+    "Family": "Dravidian",
+    "Area": "Eurasia",
+    "Dem": "gn",
+    "Num": "gn",
+    "Adj": "x",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Adj_Concord": [],
+    "Samples": [],
+    "iso_codes": "kfb, nit",
+    "Glottocode": "nort2699",
+    "Glottoname": "Northwestern Kolami",
+    "Subfamily": ""
+}

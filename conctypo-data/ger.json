@@ -1,0 +1,39 @@
+{
+    "code": "ger",
+    "Language": "German",
+    "Genus": "Germanic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "X",
+    "Adj": "gncd",
+    "Type_wdef": "uniform-demnodef",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "deu",
+    "Glottocode": "stan1295",
+    "Glottoname": "German",
+    "Subfamily": ""
+}

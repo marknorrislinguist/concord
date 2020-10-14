@@ -1,0 +1,34 @@
+{
+    "code": "ket",
+    "Language": "Ket",
+    "Genus": "Yeniseian",
+    "Family": "Yeniseian",
+    "Area": "Eurasia",
+    "Dem": "gn",
+    "Num": "X",
+    "Adj": "n",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "mixed-subsective",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "Hasp-100"
+    ],
+    "iso_codes": "ket",
+    "Glottocode": "kett1243",
+    "Glottoname": "Ket",
+    "Subfamily": ""
+}

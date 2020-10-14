@@ -1,0 +1,28 @@
+{
+    "code": "mei",
+    "Language": "Meithei",
+    "Genus": "Kuki-Chin",
+    "Family": "Sino-Tibetan",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "z",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Num",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "Adj_Concord": "mei has no Adj",
+    "iso_codes": "mni",
+    "Glottocode": "mani1292",
+    "Glottoname": "Manipuri",
+    "Subfamily": "Tibeto-Burman"
+}

@@ -1,0 +1,38 @@
+{
+    "code": "ice",
+    "Language": "Icelandic",
+    "Genus": "Germanic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "gnc",
+    "Adj": "gncd",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Adj_Concord": [
+        "Def",
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "isl",
+    "Glottocode": "icel1247",
+    "Glottoname": "Icelandic",
+    "Subfamily": ""
+}

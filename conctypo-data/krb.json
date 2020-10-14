@@ -1,0 +1,30 @@
+{
+    "code": "krb",
+    "Language": "Kiribati",
+    "Genus": "Oceanic",
+    "Family": "Austronesian",
+    "Area": "Papunesia",
+    "Dem": "n",
+    "Num": "f",
+    "Adj": "z",
+    "Type_wdef": "indeterminate-minimal-clf",
+    "Type_nodef": "indeterminate-minimal-clf",
+    "Cat_Inv": [
+        "Dem",
+        "Num"
+    ],
+    "Dem_Concord": [
+        "Number"
+    ],
+    "Num_Concord": [
+        "Clf"
+    ],
+    "Adj_Concord": "krb has no Adj",
+    "Samples": [
+        "WALS-200"
+    ],
+    "iso_codes": "gil",
+    "Glottocode": "gilb1244",
+    "Glottoname": "Gilbertese",
+    "Subfamily": "Eastern Malayo-Polynesian"
+}

@@ -1,0 +1,39 @@
+{
+    "code": "ing",
+    "Language": "Ingush",
+    "Genus": "Nakh",
+    "Family": "Nakh-Daghestanian",
+    "Area": "Eurasia",
+    "Dem": "nc",
+    "Num": "gc",
+    "Adj": "gnc",
+    "Type_wdef": "mixed-subsective-crossed",
+    "Type_nodef": "mixed-subsective-crossed",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Case",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "Hasp-100"
+    ],
+    "iso_codes": "inh",
+    "Glottocode": "ingu1240",
+    "Glottoname": "Ingush",
+    "Subfamily": ""
+}

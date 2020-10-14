@@ -1,0 +1,29 @@
+{
+    "code": "lez",
+    "Language": "Lezgian",
+    "Genus": "Lezgic",
+    "Family": "Nakh-Daghestanian",
+    "Area": "Eurasia",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "lez",
+    "Glottocode": "lezg1247",
+    "Glottoname": "Lezgian",
+    "Subfamily": "Daghestanian"
+}

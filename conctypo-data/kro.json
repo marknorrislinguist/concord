@@ -1,0 +1,35 @@
+{
+    "code": "kro",
+    "Language": "Krongo",
+    "Genus": "Kadugli",
+    "Family": "Kadu",
+    "Area": "Africa",
+    "Dem": "xo",
+    "Num": "xo",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "More_Info": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "kgo",
+    "Glottocode": "kron1241",
+    "Glottoname": "Krongo",
+    "Subfamily": ""
+}

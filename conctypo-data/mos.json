@@ -1,0 +1,33 @@
+{
+    "code": "mos",
+    "Language": "Moset\u00e9n",
+    "Genus": "Mosetenan",
+    "Family": "Mosetenan",
+    "Area": "South America",
+    "Dem": "gn",
+    "Num": "x",
+    "Adj": "gn",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "Hasp-100"
+    ],
+    "iso_codes": "cas",
+    "Glottocode": "mose1249",
+    "Glottoname": "Moset\u00e9n-Chiman\u00e9",
+    "Subfamily": ""
+}

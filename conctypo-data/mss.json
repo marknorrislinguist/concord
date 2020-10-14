@@ -1,0 +1,37 @@
+{
+    "code": "mss",
+    "Language": "Miwok (Southern Sierra)",
+    "Genus": "Miwok",
+    "Family": "Penutian",
+    "Area": "North America",
+    "Dem": "nc",
+    "Num": "o",
+    "Adj": "nc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [
+        "Case",
+        "Number"
+    ],
+    "More_Info": [
+        "Num"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "skd",
+    "Glottocode": "sout2985",
+    "Glottoname": "Southern Sierra Miwok",
+    "Subfamily": "Utian"
+}

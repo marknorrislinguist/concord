@@ -1,0 +1,30 @@
+{
+    "code": "kor",
+    "Language": "Korean",
+    "Genus": "Korean",
+    "Family": "Korean",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "kor",
+    "Glottocode": "kore1280",
+    "Glottoname": "Korean",
+    "Subfamily": ""
+}

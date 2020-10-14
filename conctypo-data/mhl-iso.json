@@ -1,0 +1,29 @@
+{
+    "code": "mhl-iso",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "n",
+    "Cat_Inv": [
+        "Num",
+        "Adj",
+        "Dem"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number"
+    ],
+    "Dem_Concord": [],
+    "Type_wdef": "indeterminate-minimal",
+    "Type_nodef": "indeterminate-minimal",
+    "Notes": "adjective concord is minimal; perhaps some kind of agreeing postposition?",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Mauwake",
+    "Glottocode": "mauw1238",
+    "Glottoname": "Mauwake",
+    "Area": "Papunesia",
+    "Genus": "Madang",
+    "Family": "Trans-New Guinea",
+    "Subfamily": ""
+}

@@ -1,0 +1,30 @@
+{
+    "code": "map",
+    "Language": "Mapudungun",
+    "Genus": "Araucanian",
+    "Family": "Araucanian",
+    "Area": "South America",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "arn",
+    "Glottocode": "mapu1245",
+    "Glottoname": "Mapudungun",
+    "Subfamily": ""
+}

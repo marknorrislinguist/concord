@@ -1,0 +1,41 @@
+{
+    "code": "lat",
+    "Language": "Latvian",
+    "Genus": "Baltic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "gnc",
+    "Adj": "gncd",
+    "Type_wdef": "mixed-subsective",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [
+        "Case",
+        "Number",
+        "Def",
+        "Gender"
+    ],
+    "Num_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Dem_Concord": [
+        "Case",
+        "Number",
+        "Gender"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200"
+    ],
+    "iso_codes": "lav",
+    "Glottocode": "latv1249",
+    "Glottoname": "Latvian",
+    "Subfamily": ""
+}

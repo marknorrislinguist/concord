@@ -1,0 +1,30 @@
+{
+    "code": "knd",
+    "Language": "Kannada",
+    "Genus": "Southern Dravidian",
+    "Family": "Dravidian",
+    "Area": "Eurasia",
+    "Dem": "X",
+    "Num": "X",
+    "Adj": "x",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100",
+        "Hasp-100"
+    ],
+    "iso_codes": "kan",
+    "Glottocode": "nucl1305",
+    "Glottoname": "Kannada",
+    "Subfamily": ""
+}

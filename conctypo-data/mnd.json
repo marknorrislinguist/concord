@@ -1,0 +1,34 @@
+{
+    "code": "mnd",
+    "Language": "Mandarin",
+    "Genus": "Chinese",
+    "Family": "Sino-Tibetan",
+    "Area": "Eurasia",
+    "Dem": "xo",
+    "Num": "xo",
+    "Adj": "xo",
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "More_Info": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Samples": [
+        "WALS-174",
+        "WALS-200",
+        "WALS-100"
+    ],
+    "iso_codes": "cmn",
+    "Glottocode": "mand1415",
+    "Glottoname": "Mandarin Chinese",
+    "Subfamily": ""
+}

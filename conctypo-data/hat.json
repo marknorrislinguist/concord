@@ -1,0 +1,27 @@
+{
+    "code": "hat",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Num",
+        "Dem",
+        "Adj"
+    ],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Adj_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Samples": [
+        "Hasp-100"
+    ],
+    "Language": "Hatam",
+    "Area": "Papunesia",
+    "iso_codes": "had",
+    "Glottocode": "hata1243",
+    "Glottoname": "Hatam",
+    "Genus": "Hatam",
+    "Family": "West Papuan",
+    "Subfamily": ""
+}

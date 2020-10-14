@@ -1,0 +1,33 @@
+{
+    "code": "mhi",
+    "Language": "Marathi",
+    "Genus": "Indic",
+    "Family": "Indo-European",
+    "Area": "Eurasia",
+    "Dem": "gnc",
+    "Num": "x",
+    "Adj": "gnc",
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Cat_Inv": [
+        "Dem",
+        "Num",
+        "Adj"
+    ],
+    "Dem_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Num_Concord": [],
+    "Adj_Concord": [
+        "Number",
+        "Case",
+        "Gender"
+    ],
+    "Samples": [],
+    "iso_codes": "mar",
+    "Glottocode": "mara1378",
+    "Glottoname": "Marathi",
+    "Subfamily": ""
+}
