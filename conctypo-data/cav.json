@@ -1,0 +1,24 @@
+{
+    "code": "cav",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Language": "Cavine\u00f1a",
+    "Family": "Tacanan",
+    "Subfamily": "",
+    "Genus": "Tacanan",
+    "ISO_codes": "cav",
+    "Glottoname": "Cavine\u00f1a",
+    "Glottocode": "cavi1250",
+    "Area": "South America"
+}

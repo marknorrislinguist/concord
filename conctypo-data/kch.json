@@ -1,0 +1,24 @@
+{
+    "code": "kch",
+    "Dem": "x",
+    "Num": "x",
+    "Adj": "x",
+    "Cat_Inv": [
+        "Adj",
+        "Num",
+        "Dem"
+    ],
+    "Adj_Concord": [],
+    "Num_Concord": [],
+    "Dem_Concord": [],
+    "Type_wdef": "none",
+    "Type_nodef": "none",
+    "Language": "Koyra Chiini",
+    "Family": "Songhay",
+    "Subfamily": "",
+    "Genus": "Songhay",
+    "ISO_codes": "khq",
+    "Glottoname": "Koyra Chiini Songhay",
+    "Glottocode": "koyr1240",
+    "Area": "Africa"
+}
