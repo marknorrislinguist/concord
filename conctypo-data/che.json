@@ -1,0 +1,30 @@
+{
+    "code": "che",
+    "Dem": "x",
+    "Num": "gn",
+    "Adj": "gn",
+    "Cat_Inv": [
+        "Adj",
+        "Dem",
+        "Num"
+    ],
+    "Adj_Concord": [
+        "Gender",
+        "Number"
+    ],
+    "Dem_Concord": [],
+    "Num_Concord": [
+        "Gender",
+        "Number"
+    ],
+    "Type_wdef": "uniform",
+    "Type_nodef": "uniform",
+    "Language": "Cherokee",
+    "Family": "Iroquoian",
+    "Subfamily": "",
+    "Genus": "Southern Iroquoian",
+    "ISO_codes": "chr",
+    "Glottoname": "Cherokee",
+    "Glottocode": "cher1273",
+    "Area": "North America"
+}
